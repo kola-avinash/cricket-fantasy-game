@@ -1,0 +1,11 @@
+## project of fantasy cricket Game##
+
+please use the main method to run the program
+
+
+Thank you
+
+Hope you Like it
+
+By:
+K.Avinash
